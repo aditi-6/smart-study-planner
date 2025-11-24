@@ -1,15 +1,20 @@
-# Problem Statement
-Students struggle to plan their study schedule efficiently and track their actual performance. The project aims to create a simple study planner that generates study plans, logs daily progress, and provides summary reports.
+# Project Statement
 
-# Scope
-The system allows users to add subjects/topics, generate a plan, log completed hours, and view progress reports.
+This project aims to help students plan their daily study schedule in a simple and practical way.  
+The system takes basic inputs like subjects, number of chapters and total hours available per day and automatically generates a balanced study plan.  
 
-# Target Users
-Students preparing for exams or managing multiple subjects.
+## Scope of the Project
+The focus is on creating a lightweight tool that breaks down each subject into daily tasks and avoids overloading the user.  
+The project uses simple decision logic, modular structure and file-based storage.
 
-# High-Level Features
-- Add subjects & topics  
-- Create a study plan (daily/weekly)  
-- Log study progress  
-- Generate summary reports
+## Target Users
+- Students preparing for exams
+- Anyone who wants a structured daily study routine
+- Beginners learning basic scheduling logic
+
+## High-Level Features
+- Add subjects and study hours  
+- Automatic daily schedule generation  
+- Simple recommendations based on workload  
+- Easy text-based output for quick viewing  
 
