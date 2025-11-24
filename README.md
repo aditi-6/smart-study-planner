@@ -9,6 +9,9 @@ A simple Python-based tool that helps students manage study schedules, track pro
 - View summary reports
 - JSON-based storage (no external DB required)
 
+## Link to repository
+https://github.com/aditi-6/smart-study-planner
+
 ## Technologies Used
 - Python (standard library)
 - JSON for lightweight storage
