@@ -21,7 +21,12 @@ https://github.com/aditi-6/smart-study-planner
 1. Clone or download the repository
 2. Navigate to the project folder
 3. Go inside the src directory:
+   cd src
 4. Run the main file:
+   python main.py
+> Use Python 3.8 or higher. The first run will create `data.json` in the `src` folder.
+
+   
 
 
 ## Project Structure
