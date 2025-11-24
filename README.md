@@ -1,22 +1,38 @@
-# Smart Study Planner & Performance Tracker
+# Smart Study Planner
 
-A simple Python-based tool that helps students manage study schedules, track progress, and generate performance summaries.
+A simple planning tool that generates a daily study schedule based on the subjects and hours entered by the user.
 
 ## Features
-- Add subjects and topics
-- Auto-generate study plan (list view)
-- Log daily study progress
-- View summary reports
-- JSON-based storage (no external DB required)
+- Add multiple subjects with chapters/hours
+- Smart load balancing
+- Automatically generated daily plan
+- Simple text-based interface
 
 ## Link to repository
 https://github.com/aditi-6/smart-study-planner
 
+
 ## Technologies Used
-- Python (standard library)
-- JSON for lightweight storage
-- Modular file structure for maintainability
+- Python 3
+- Basic file handling
+- Modular program structure
 
 ## How to Run
-1. Open a terminal in the project root.
-2. Change directory to the source folder:
+1. Clone or download the repository
+2. Navigate to the project folder
+3. Go inside the src directory:
+4. Run the main file:
+
+
+## Project Structure
+- `src/main.py` → main executable  
+- `src/planner.py` → scheduling logic  
+- `src/subject.py` → data model  
+- `design/` → diagrams  
+- `screenshots/` → output screenshots  
+
+## Author
+Aditi
+
+
+
